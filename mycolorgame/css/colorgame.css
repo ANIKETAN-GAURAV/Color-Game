@@ -1,0 +1,40 @@
+body{
+    background-color: #232323;
+
+}
+
+#container
+{
+	margin: 0 auto;
+	max-width: 600px;
+}
+.square
+{
+		width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+    top:50%;
+    border-radius: 20PX;
+
+}
+h1
+{
+	color:blue;
+
+}
+#colordisplay
+{
+	text-transform: uppercase;
+}
+#message
+{
+	color: black;
+}
+#stripe
+{   height: 30px;
+		background-color:white;
+  text-align: center;
+  color: black;
+}
